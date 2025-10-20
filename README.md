@@ -4,7 +4,7 @@ This section outlines key hardware and software projects completed during my bac
 
 ---
 
-## SDR 2.0: Low-Cost WSPR Receiver Design (ELEC3607 Project, 2023)
+## SDR 2.0: Low-Cost WSPR Receiver Design 
 
 * Designed and simulated the analog signal chain for a Software Defined Radio (SDR) receiver targeting the 7.04MHz WSPR (Weak Signal Propagation Reporter) band.
 * Engineered the **Tayloe detector (mixer)** stage to successfully down-convert the 7.0401 MHz carrier frequency to the 1.4 kHz - 1.6 kHz audio range required for digital processing.
@@ -14,7 +14,7 @@ This section outlines key hardware and software projects completed during my bac
 
 ---
 
-## Water Quality Monitoring Solution with Community Engagement (ENGG3851 Project, 2022)
+## Water Quality Monitoring Solution with Community Engagement 
 
 * Contributed to a proposed solution for the Illawarra Local Aboriginal Land Council (ILALC) to monitor creek water quality using a three-tiered approach: hardware (data loggers), software (app/visualization), and community engagement (tours).
 * Involved in the **hardware design concept**, including the selection of professional-grade sensors (**HOBO MX2001** for water level, **HOBO MX2501** for pH/temp) and the **CAD design** of a buoyant, waterproof acrylic casing to house them.
@@ -23,7 +23,7 @@ This section outlines key hardware and software projects completed during my bac
 
 ---
 
-## Microsoft & USYD Digital Campus Transformation Project (ICPU1158 Project, 2024)
+## Microsoft & USYD Digital Campus Transformation Project 
 
 * Provided **key engineering analysis** within a 6-person team (Synergy Squad) evaluating the feasibility and implementation limitations of advanced AI technologies (like Microsoft Copilot) for the University of Sydney's digital campus transformation.
 * Applied **design thinking methodologies** to identify stakeholder (students, staff) pain points related to AI adoption, infrastructure limitations, and the need for flexible learning.
