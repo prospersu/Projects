@@ -4,25 +4,6 @@ This section outlines key hardware and software projects completed during my bac
 
 ---
 
-## Honours Thesis: Effective Hardware Block Design Modifications: Impact on Neural Network Performance (2024)
-
-* Researched and implemented on-FPGA neural network optimization by transitioning a Binarized Neural Network (BNN) to a Ternary Neural Network (TNN) via a weight randomization technique.
-* Achieved a **12.5% model accuracy improvement** (from 73% to 82.1%) by implementing 10% weight randomization in the **Brevitas** framework.
-* Validated the hardware cost of the optimization using the **FINN** framework for High-Level Synthesis (HLS), confirming the performance gain was achieved with only a minor increase in hardware resources (**7.1% in LUTs and 4.325% in FFs**).
-* Utilized **PyTorch**, **Brevitas**, and **FINN** to bridge software simulations with hardware synthesis estimates.
-
----
-
-## Jacaranda Flame Consulting: Squealing Pig Model Project (Nov 2023 – Feb 2024)
-
-* Collaborated in a multidisciplinary team of 5 engineers to develop an interactive pig model simulating realistic responses for veterinary training.
-* **Led the hardware implementation** of the mobility system by adapting and modifying components (motors, steering, chassis) from a children’s ride-on car, achieving stable remote-controlled movement.
-* Designed and integrated a pressure-sensitive squealing mechanism using **Arduino**, thin-film pressure sensors, and **Bluetooth** connectivity to an Android app for interactive auditory feedback.
-* Constructed and refined hardware prototypes, including custom platform design and component mounting (e.g., thread inserts for the pig model, embedded motor mounts), ensuring robustness and ease of maintenance.
-* Managed component selection, circuit assembly, and cable management within budget and project constraints.
-
----
-
 ## SDR 2.0: Low-Cost WSPR Receiver Design (ELEC3607 Project, 2023)
 
 * Designed and simulated the analog signal chain for a Software Defined Radio (SDR) receiver targeting the 7.04MHz WSPR (Weak Signal Propagation Reporter) band.
